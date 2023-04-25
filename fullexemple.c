@@ -1,3 +1,9 @@
+/*This code is an example taken frrom Design Parallel and Distributed Appliations in C/C++ with MPI 
+ * with some modifications to training issues
+ *
+ * @carlosjaimebh 
+ */
+
 #include<stdio.h>
 #include<mpi.h>
 #include<stdlib.h>
